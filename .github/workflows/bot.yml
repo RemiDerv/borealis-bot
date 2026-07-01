@@ -3,7 +3,6 @@ name: Appel du site
 on:
   schedule:
     - cron: '*/45 * * * *'
-  workflow_dispatch:
 
 jobs:
   visit:
