@@ -1,4 +1,4 @@
-name: Appel du site
+name: Visite du site
 
 on:
   schedule:
